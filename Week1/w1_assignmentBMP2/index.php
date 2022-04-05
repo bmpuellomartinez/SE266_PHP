@@ -1,10 +1,11 @@
 <?php 
 
-$tanks [
-
-    "Title" => "cleaning the dishes",
+$tanks = [
+    "Job Title:" => "Cleaning the dishes",
+    "Assigned to" => "Daughter"
     "Due date:" => "Today",
-    "Dishes" => 30,
+    "How many Dishes?" => 30,
+    "Completed" => "Yes"
 ];
 
 ?>
@@ -18,9 +19,9 @@ $tanks [
     <title>w1 Mini Task2</title>
  <!-- This is the css for the unoder list -->
     <style>
-        ul{
+        li{
             background: #e3e3e3;
-            padding: 2em;
+            padding: 1em;
             
         }
     </style>
