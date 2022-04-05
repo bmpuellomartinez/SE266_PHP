@@ -36,7 +36,7 @@ $animals = [
             echo "<li>$animal</li>";
         }
         ?>
-   
+        
     </ul>  
     <!--This is the end of the code -->
 </body> 
