@@ -33,7 +33,7 @@ $tanks = [
 <!--Instructor: Timothy Henry, PhD, PMP -->
 <!--Course: PHP -->
 <!--Date: 4/11/2022 -->
-<!-- Absorbed from https://laracasts.com/series/php-for-beginners/episodes/6 -->
+<!-- Absorbed from https://laracasts.com/series/php-for-beginners/episodes/7 -->
 
 <body>
 
