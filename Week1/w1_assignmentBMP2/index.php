@@ -33,7 +33,7 @@ $tanks = [
     <?php foreach ($tanks as key => $tank) : ?>
  
         <li><strong><?= key; ?></strong> <?= $tank; ?></li>
-    <?php endforeach: ?>
+    <?php endforeach; ?>
 
 </body>
 </html>
