@@ -33,6 +33,8 @@ $tanks = [
 <!--Instructor: Timothy Henry, PhD, PMP -->
 <!--Course: PHP -->
 <!--Date: 4/11/2022 -->
+<!-- Absorbed from https://laracasts.com/series/php-for-beginners/episodes/6 -->
+
 <body>
 
     <!-- The foreach loop works only on arrays, and is used to loop through each key/value pair in an array -->

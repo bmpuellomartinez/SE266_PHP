@@ -18,7 +18,7 @@ $animals = [
     <!--Instructor: Timothy Henry, PhD, PMP -->
     <!--Course: PHP -->
     <!--This Program will display five animals names. The code was 
-    absorbed from https://laracasts.com/series/php-for-beginners/episodes/6 -->
+    Absorbed from https://laracasts.com/series/php-for-beginners/episodes/6 -->
 
     <style>
         ul{
@@ -36,7 +36,7 @@ $animals = [
             echo "<li>$animal</li>";
         }
         ?>
-        
+
     </ul>  
     <!--This is the end of the code -->
 </body> 
