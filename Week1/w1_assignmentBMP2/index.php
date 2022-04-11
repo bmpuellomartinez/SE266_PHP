@@ -2,10 +2,10 @@
 
 $tanks = [
     "Job Title:" => "Cleaning the dishes",
-    "Assigned to" => "Daughter"
+    "Assigned to" => "Daughter",
     "Due date:" => "Today",
     "How many Dishes?" => 30,
-    "Completed" => "Yes"
+    "Completed" => "Yes",
 ];
 
 ?>
@@ -25,15 +25,15 @@ $tanks = [
             
         }
     </style>
+
 </head>
 <body>
 
-    <?php 
-    foreach($tanks as $tank){
-
-        echo "<li>$tank</li>";
-    }
-    ?>
+     
+    <?php foreach ($tanks as key => $tank) : ?>
+ 
+        <li><strong><?= key; ?></strong> <?= $tank; ?></li>
+    <?php endforeach: ?>
 
 </body>
 </html>
